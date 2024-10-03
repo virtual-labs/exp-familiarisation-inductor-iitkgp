@@ -1,0 +1,57 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Two 5 H inductors connected in series are subjected to an electric current that changes at a rate of 4.5 amps per sec.How much voltage will be dropped across the series combination?",
+        "answers": {
+          "a": "45 V",
+          "b": "22.5 V",
+          "c": "11.25 V",
+          "d": "90 V"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is correct",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Two 5 H inductors connected in parallel are subjected to an electric current that changes at a rate of 4.5 amps per sec.How much voltage will be dropped across the series combination?(Hint: The total current is divided evenly between the two inductors).",
+        "answers": {
+          "a": "45 V",
+          "b": "22.5 V",
+          "c": "11.25 V",
+          "d": "90 V"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is correct",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "How large must Inductor Lx be in order to provide a total inductance of 2.5 H in this network of inductors? <br/><p style=\"text-align:center\"><img src=\"images/figure1.png\"></p>",
+        "answers": {
+          "a": "12.45 H",
+          "b": "1.245 H",
+          "c": "2.145 H",
+          "d": "214.5 H"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

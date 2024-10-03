@@ -1,0 +1,40 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Two 50 mH inductors are connected in parallel with each other. What will their combined inductance be in Henrys?",
+        "answers": {
+          "a": "200 mH",
+          "b": "50 mH",
+          "c": "25 mH",
+          "d": "100 mH"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is correct",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Calculate the total inductance in this collection of inductors, as measured between the two wires.calculates total inductance given the values of inductors L1, L2, and L3. <br/><p style=\"text-align:center\"><img src=\"images/figure2.png\"></p>",
+        "answers": {
+          "a": "700 mH",
+          "b": "583.26 mH",
+          "c": "689.09 mH",
+          "d": "783.26 mH"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
