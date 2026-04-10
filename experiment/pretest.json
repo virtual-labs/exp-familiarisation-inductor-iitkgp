@@ -9,12 +9,7 @@
           "c": "25 mH",
           "d": "100 mH"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is correct",
-          "d": "You have choosen option (d). The answer is incorrect"
-        },
+        
         "correctAnswer": "c",
         "difficulty": "beginner"
       },
@@ -26,12 +21,7 @@
           "c": "689.09 mH",
           "d": "783.26 mH"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect  ",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is incorrect",
-          "d": "You have choosen option (d). The answer is correct"
-        },
+       
         "correctAnswer": "d",
         "difficulty": "beginner"
       }
