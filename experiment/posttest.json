@@ -9,12 +9,7 @@
           "c": "11.25 V",
           "d": "90 V"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is correct",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is incorrect",
-          "d": "You have choosen option (d). The answer is incorrect"
-        },
+        
         "correctAnswer": "a",
         "difficulty": "beginner"
       },
@@ -26,12 +21,7 @@
           "c": "11.25 V",
           "d": "90 V"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect  ",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is correct",
-          "d": "You have choosen option (d). The answer is incorrect"
-        },
+        
         "correctAnswer": "c",
         "difficulty": "beginner"
       },
@@ -43,12 +33,7 @@
           "c": "2.145 H",
           "d": "214.5 H"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect  ",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is incorrect",
-          "d": "You have choosen option (d). The answer is correct"
-        },
+        
         "correctAnswer": "d",
         "difficulty": "beginner"
       }
